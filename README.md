@@ -7,6 +7,8 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo de Cagayan.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
+- Your Name: Maxenne Zadamae Briah M. Arocha
+- Username: Maxenne
 - 📫 How to reach me: <20200020390@my.xu.edu.ph>
 
 ## 💻 Tech Stack
